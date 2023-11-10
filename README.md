@@ -1,6 +1,7 @@
 Hello, I'm Regina Esquivel! 👋
 
-About me 💫
+## About me 💫
+
 I am a Systems Engineering student and part of the exciting web development program at Laboratoria. My passion for programming drives me to explore new technologies and tackle challenges with creativity and innovation. Additionally, I'm currently enrolled in the BEDU Java Full Stack program, where I'm preparing to enhance my skills as a backend developer.
 
 Skills 👩‍💻
