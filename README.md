@@ -1,25 +1,20 @@
-¡Hola, soy Regina Esquivel! 👋
+Hello, I'm Regina Esquivel! 👋
 
-## Sobre mí 💫 
+About me 💫
+I am a Systems Engineering student and part of the exciting web development program at Laboratoria. My passion for programming drives me to explore new technologies and tackle challenges with creativity and innovation. Additionally, I'm currently enrolled in the BEDU Java Full Stack program, where I'm preparing to enhance my skills as a backend developer.
 
-Soy estudiante de Ingeniería en Sistemas y formo parte del emocionante programa de desarrollo web en [Laboratoria](https://www.laboratoria.la/). Mi pasión por la programación me impulsa a explorar nuevas tecnologías y afrontar desafíos con creatividad e innovación. También, y no menos importante, estoy cursando en [BEDU](https://bedu.org/cursos)) el programa de Java Full Stack en donde me preparo para desarrollar mis habilidades como backend developer. 
+Skills 👩‍💻
+💻 Web Development: HTML, CSS, JavaScript, Node.js, Jest Test, SCRUM, React.js, Java 8, Spring Framework/boot, MongoDB.
+🔧 Tools: Git, GitHub, VS Code, IntelliJ, Firebase.
+💻 Contact Tools: Zoom, Google Meets, Slack.
+Goals
+My goal is to combine my passion for programming with my Systems Engineering education to create technological solutions that have a positive impact on society. I aspire to:
 
-## Habilidades 👩‍💻
-
-- 💻 Desarrollo Web: HTML, CSS, JavaScript, Node.js, Jest Test, SCRUM, React.js, Java 8, Spring Framework/boot, MongoDB.
-- 🔧 Herramientas: Git, GitHub, VS Code, IntellIJ, Firebase.
-- 💻 herramientas de contacto: Zoom, Google meets, Slack.
-
-## Objetivos
-
-Mi meta es combinar mi pasión por la programación con mi formación en Ingeniería en Sistemas para crear soluciones tecnológicas que impacten de manera positiva en la sociedad. Aspiro a:
-
-- Desarrollar proyectos innovadores que aborden desafíos del mundo real.
-- Contribuir al código abierto y aprender de la comunidad.
-- Continuar aprendiendo nuevas tecnologías y metodologías de desarrollo.
-- Colaborar en un entorno que fomente la creatividad y el trabajo en equipo.
-
-Estoy emocionada por el viaje que me espera y por las oportunidades de crecimiento y aprendizaje en el fascinante mundo de la ingeniería y la programación.
+Develop innovative projects addressing real-world challenges.
+Contribute to open-source projects and learn from the community.
+Continue learning new technologies and development methodologies.
+Collaborate in an environment that fosters creativity and teamwork.
+I'm excited about the journey ahead and the opportunities for growth and learning in the fascinating world of engineering and programming.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/regina-esquivel) 
@@ -38,12 +33,12 @@ Estoy emocionada por el viaje que me espera y por las oportunidades de crecimien
 [![](https://visitcount.itsvg.in/api?id=Regieslu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Contacto ☎️
-¡Conéctate conmigo!
+## Contact ☎️
+Connect with me!
 
 - 📧 Email: [regina.eslu@outlook.com/ regina.esluka@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/regina-esquivel]
 
-¡Gracias por visitar mi perfil! 😊
+Thanks for visiting my profile! 😊
 
 
