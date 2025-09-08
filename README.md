@@ -2,7 +2,7 @@ Hello, I'm Regina Esquivel! 👋
 
 ## About me 💫
 
-Junior Web Developer with a passion for crafting captivating digital experiences. Specialized in both front-end and back-end web development, I am enthusiastic about continuous learning in the dynamic world of web programming. My commitment, proactivity, and enjoyment of teamwork are fundamental pillars in my professional approach.
+Web Developer with a passion for crafting captivating digital experiences. Specialized in both front-end and back-end web development, I am enthusiastic about continuous learning in the dynamic world of web programming. My commitment, proactivity, and enjoyment of teamwork are fundamental pillars in my professional approach.
 ## Goals
 
 My goal is to combine my passion for programming with my Systems Engineering education to create technological solutions that have a positive impact on society. I aspire to:
